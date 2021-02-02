@@ -17,5 +17,4 @@ Programa desenvolvido na liguagem Python para automatizar backups diários.
 
 ## Meta
 
-Jéssica C Ramos – [@Jéssica C Ramos](https://www.linkedin.com/in/jessica-charliny-ramos-0b31781ba/) – jessicacharliny@gmail.com
-
+Jéssica C Ramos – [@Jéssica C Ramos](https://www.linkedin.com/in/jessica-charliny-ramos-0b31781ba/)
