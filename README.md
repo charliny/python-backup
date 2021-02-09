@@ -1,6 +1,6 @@
 # PythonBackup
 
-> Automatizando backups com linguagem Python
+> Automatizando backups com Python
 
 
 Programa desenvolvido na liguagem Python para automatizar backups diários. 
