@@ -1,6 +1,6 @@
 # PythonBackup
 
-> Automatizando backups com Python
+> Automating Backups with Python
 
 
 API desenvolvida na liguagem Python para automatizar backups diários. 
