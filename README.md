@@ -3,7 +3,7 @@
 > Automatizando backups com Python
 
 
-Programa desenvolvido na liguagem Python para automatizar backups diários. 
+API desenvolvida na liguagem Python para automatizar backups diários. 
 
 #
 
